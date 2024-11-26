@@ -1,0 +1,79 @@
+
+else if(movement == "say_hi"){
+	hashv3.say_hi(repeats, speed);
+}
+else if(movement == "hands_up"){
+	hashv3.hands_up(repeats, speed);
+}
+else if(movement == "forward"){
+	hashv3.forward(repeats, speed);
+}
+else if(movement == "turn_right"){
+	hashv3.turn_right(repeats, speed);
+}
+else if(movement == "turn_left"){
+	hashv3.turn_left(repeats, speed);
+}
+else if(movement == "move_right"){
+	hashv3.move_right(repeats, speed);
+}
+else if(movement == "move_left"){
+	hashv3.move_left(repeats, speed);
+}
+else if(movement == "ball_kick_right"){
+	hashv3.ball_kick_right(repeats, speed);
+}
+else if(movement == "ball_kick_left"){
+	hashv3.ball_kick_left(repeats, speed);
+}
+else if(movement == "max_sit"){
+	hashv3.max_sit(repeats, speed);
+}
+else if(movement == "bow"){
+	hashv3.bow(repeats, speed);
+}
+else if(movement == "right_bow"){
+	hashv3.right_bow(repeats, speed);
+}
+else if(movement == "left_bow"){
+	hashv3.left_bow(repeats, speed);
+}
+else if(movement == "ape_move"){
+	hashv3.ape_move(repeats, speed);
+}
+else if(movement == "clap"){
+	hashv3.clap(repeats, speed);
+}
+else if(movement == "right_leg_up"){
+	hashv3.right_leg_up(repeats, speed);
+}
+else if(movement == "left_leg_up"){
+	hashv3.left_leg_up(repeats, speed);
+}
+else if(movement == "hip_posh"){
+	hashv3.hip_posh(repeats, speed);
+}
+else if(movement == "right_leg_balance"){
+	hashv3.right_leg_balance(repeats, speed);
+}
+else if(movement == "left_leg_balance"){
+	hashv3.left_leg_balance(repeats, speed);
+}
+else if(movement == "flying_action"){
+	hashv3.flying_action(repeats, speed);
+}
+else if(movement == "hand_sit_zigzak"){
+	hashv3.hand_sit_zigzak(repeats, speed);
+}
+else if(movement == "side_shake"){
+	hashv3.side_shake(repeats, speed);
+}
+else if(movement == "hip_shake"){
+	hashv3.hip_shake(repeats, speed);
+}
+else if(movement == "bend_up "){
+	hashv3.bend_up (repeats, speed);
+}
+else if(movement == "push_up"){
+	hashv3.push_up(repeats, speed);
+}

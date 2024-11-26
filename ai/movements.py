@@ -1,0 +1,1 @@
+movements = ["forward", "turn_right", "turn_left", "move_right", "move_left", "ball_kick_right", "ball_kick_left", "max_sit", "bow", "right_bow", "left_bow", "ape_move", "push_up", "clap", "right_leg_up", "left_leg_up", "flying_action", "hand_sit_zigzak", "side_shake", "hip_shake", "bend_up"]
